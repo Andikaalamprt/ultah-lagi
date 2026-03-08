@@ -27,8 +27,8 @@
 
 const CONFIG = {
   // ── Recipient Info ────────────────────────────────────────────
-  name: "Irene",
-  photo: "./img/irene.jpg",       // Place your photo in the img/ folder
+  name: "KIA MUJAER",
+  photo: "./img/bear.gif",       // Place your photo in the img/ folder
   music: "./music/hbd.mpeg",      // Place your music in the music/ folder
 
   // ── Theme Colors ──────────────────────────────────────────────
@@ -87,7 +87,7 @@ const CONFIG = {
     {
       type: "quote",
       text: "The more you praise and celebrate your life, the more there is in life to celebrate.",
-      author: "Oprah Winfrey",
+      author: "tama ganteng",
     },
     {
       type: "stars",
@@ -99,8 +99,8 @@ const CONFIG = {
     },
     {
       type: "profile",
-      wishTitle: "Happy Birthday!",
-      wishText: "May the js.prototypes always be with you! ;)",
+      wishTitle: "Happy Birthday!, JAN MATI RASA HEHE",
+      wishText: "BY TAMA GANTENG ALWAYS WITH YOU! ;)",
     },
     {
       type: "fireworks",
